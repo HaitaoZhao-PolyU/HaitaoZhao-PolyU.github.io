@@ -4,7 +4,7 @@ excerpt: "Short description of home item number 1<br/><img src='/images/500x300.
 collection: home
 ---
 
-<img src="https://www.polyu.edu.hk/eee/-/media/Department/EEE/People_New/ZHAO-Haitao-(03).jpg?bc=ffffff&h=860&w=560&rev=39bde438a64f4059a10b95c4ad550ce7&hash=B005D3581AEA5914057C5A6AF96C2985" width="400" height="500" alt="Professor Zhao"/>
+<img src="https://www.polyu.edu.hk/eee/-/media/Department/EEE/People_New/ZHAO-Haitao-(03).jpg?bc=ffffff&h=860&w=560&rev=39bde438a64f4059a10b95c4ad550ce7&hash=B005D3581AEA5914057C5A6AF96C2985" width="300" height="500" alt="Professor Zhao"/>
 
 ## ABOUT PROFESSOR ZHAO
 
