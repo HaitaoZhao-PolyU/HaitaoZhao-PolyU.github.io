@@ -11,7 +11,7 @@ collection: home
 Welcome to the homepage of Professor Haitao Zhao, a leading figure in Material Intelligence. As a Professor and Director of the Research Centre for Materials Intelligent Manufacturing (RCMIM) at The Hong Kong Polytechnic University.
 
 
-## Biography
+## BIOGRAPHY
 
 Prof. Haitao Zhao is a distinguished academic known for his contributions to the field of intelligent manufacturing and materials science. He obtained his BEng degree (First Class Honours) from Nanchang University in 2010, followed by an MSc and PhD from the University of Nottingham in 2011 and 2015, respectively. His academic journey includes significant positions at Zhejiang University, the Massachusetts Institute of Technology (MIT), and the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
 
