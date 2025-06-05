@@ -4,9 +4,12 @@ excerpt: "Short description of home item number 1<br/><img src='/images/500x300.
 collection: home
 ---
 
+![Professor Zhao](https://www.polyu.edu.hk/eee/-/media/Department/EEE/People_New/ZHAO-Haitao-(03).jpg?bc=ffffff&h=860&w=560&rev=39bde438a64f4059a10b95c4ad550ce7&hash=B005D3581AEA5914057C5A6AF96C2985)
+
 ## ABOUT PROFESSOR ZHAO
 
 Welcome to the homepage of Professor Haitao Zhao, a leading figure in Material Intelligence. As a Professor and Director of the Research Centre for Materials Intelligent Manufacturing (RCMIM) at The Hong Kong Polytechnic University.
+
 
 ## Section 1: Overview
 
@@ -23,7 +26,7 @@ Currently, Prof. Zhao serves as a Professor at The Hong Kong Polytechnic Univers
 With over 100 peer-reviewed publications (citations: 8167, h-index: 52, i10-index: 98), Professor Zhao has authored ground-breaking paper such as ‘A robotic platform for the synthesis of colloidal nanocrystals’ in Nature Synthesis and invited review paper such as ‘Data-Driven Materials Innovation and Applications’ in Advanced Materials. Professor Zhao’s research has led to the creation of two IEEE standards: P3466 (Data-Driven High-throughput Laboratory Intelligence and Automation) and P3467 (Digital Manufacturing and Stability Testing of Perovskite Solar Cells and Modules). In addition to his academic work, Professor Zhao is the founder and chair of the International Conference on Data-Driven Materials Innovation and plays an active role in various professional societies and standardisation agencies, including the IEEE Smart Manufacturing Standards Committee, IEEE SA Regional Group of the Guangdong-Hong Kong-Macao Greater Bay Area, and the Guangdong-Hong Kong-Macao Greater Bay Area Standard Innovation Alliance. He is also a Registered Senior Standardisation Engineer in Hong Kong and Guangdong Province.
 
 
-![Professor Zhao](https://www.polyu.edu.hk/eee/-/media/Department/EEE/People_New/ZHAO-Haitao-(03).jpg?bc=ffffff&h=860&w=560&rev=39bde438a64f4059a10b95c4ad550ce7&hash=B005D3581AEA5914057C5A6AF96C2985)
+
 
 
 ## Section 3: Code
