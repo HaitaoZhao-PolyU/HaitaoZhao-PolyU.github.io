@@ -22,11 +22,11 @@ repository               : "haitaozhao-polyu/haitaozhao-polyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "ZHAO_Haitao.jpg"
+  name             : "ZHAO Haitao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hong Kong"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
