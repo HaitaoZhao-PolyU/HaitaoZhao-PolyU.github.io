@@ -35,6 +35,9 @@ The Research Centre for Materials Intelligent Manufacturing (RCMIM) is dedicated
 “To achieve **Material Intelligence**, we begin with the power of **Artificial Intelligence**—harnessing its ability to learn and generate complex material formulas and synthesis parameters. From the cyber world to the physical world, **Machine Intelligence** evolves into **Embodied Intelligence** through the convergence of Artificial Intelligence and robotics, endowing Material Intelligence with unique capabilities for autonomous high-throughput synthesis and in situ characterization. Ultimately, our goal is to achieve **code to materials**.”
 – Professor Haitao ZHAO, Director
 
+## Research Interests:
+Embodied Intelligence, Machine Intelligence, and Material Intelligence 
+
 ---
 
 ## Open Positions
