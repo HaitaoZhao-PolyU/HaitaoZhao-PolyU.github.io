@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Haitao Zhao / Homepage"
+title                    : "Haitao Zhao / Materials Intelligence"
 title_separator          : "-"
 name                     : &name "Haitao Zhao"
 description              : &description "personal description"
