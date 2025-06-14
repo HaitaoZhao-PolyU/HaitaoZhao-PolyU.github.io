@@ -9,8 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Haitao Zhao
-Materials Intelligence"
+title                    : "Haitao Zhao/Material Intelligence"
 title_separator          : "-"
 name                     : &name "Haitao Zhao"
 description              : &description "personal description"
@@ -26,7 +25,7 @@ author:
   avatar           : "ZHAO_Haitao.jpg"
   name             : "ZHAO Haitao"
   pronouns         : # example: "she/her"  
-  bio              : "AI & Robotics for Materials Intelligence"
+  bio              : "AI & Robotics for Material Intelligence"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
