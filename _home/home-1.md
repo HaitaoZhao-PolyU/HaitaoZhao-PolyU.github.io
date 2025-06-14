@@ -27,58 +27,25 @@ In addition to his academic work, Professor Zhao is the founder and chair of the
 
 ---
 
-## RESEARCH CENTER
+## About Research Centre for Materials Intelligent Manufacturing
 
-The **Research Centre for Materials Intelligent Manufacturing (RCMIM)** is dedicated to revolutionizing materials science through cutting-edge interdisciplinary research in artificial intelligence and robotics.
+The Research Centre for Materials Intelligent Manufacturing (RCMIM) is dedicated to revolutionizing traditional material R&D through cutting-edge interdisciplinary research of material intelligence by artificial intelligence and robotics.
 
-> Artificial Intelligence is redefining the future of Physics and Chemistry.
-
-Our mission is to establish an interdisciplinary technology (i.e., **Material Intelligence**) that focuses on enabling intelligent material synthesis through artificial intelligence and robotic infrastructure, similar to the way a scientist’s mind and hands work — and even beyond.
-
-By addressing the challenges through this unique interdisciplinary research (AI, robotics, and materials), **RCMIM** pioneers a transformative research framework focused on four core areas:
-
-1. **Large language models guided rational design**  
-   *(Extraction of synthesis formulas and parameters)*  
-2. **Robotics-enabled controllable synthesis**  
-   *(Execution of high-throughput synthesis and in-situ characterization)*  
-3. **A domain-specific model facilitated learning and generating**  
-   *(Evolution of synthesis formulas and parameters)*  
-4. **Embodied intelligence-powered autonomous cycles of Extraction-Execution-Evolution**
-
-The proposed **4E techniques** (*Extraction, Execution, Evolution, and Embodied intelligence*) will establish an infrastructure of **Material Intelligence** to significantly improve the level of precision in material synthesis and intelligence in interdisciplinary research.
+“To achieve **Material Intelligence**, we begin with the power of **Artificial Intelligence**—harnessing its ability to learn and generate complex material formulas and synthesis parameters. From the cyber world to the physical world, **Machine Intelligence** evolves into **Embodied Intelligence** through the convergence of Artificial Intelligence and robotics, endowing Material Intelligence with unique capabilities for autonomous high-throughput synthesis and in situ characterization. Ultimately, our goal is to achieve **code to materials**.”
+– Professor Haitao ZHAO, Director
 
 ---
 
-## OPEN POSITIONS
+## Open Positions
 
-### Postdoctoral Positions
-
-We are looking for postdoctoral fellows to join our team in the areas of **Materials Intelligent Manufacturing (MIM)**, **artificial intelligence (AI)**, **robotics**, and **data-driven methodologies**. Postdoctoral fellows will work on research projects, collaborate with experts, and contribute to impactful publications.
-
-We welcome applications from candidates with strong research backgrounds and expertise in related fields. Applicants should have a **PhD in a relevant area**, along with **research experience** and a **solid publication record**.
+We are looking for motivated talents to join us. Openings for postdocs, graduate students and undergraduates are available. 
 
 ---
 
-### PhD Students
-
-We welcome applications from highly motivated students worldwide who are passionate about research in **Materials Intelligent Manufacturing (MIM)**, **artificial intelligence (AI)**, **robotics**, and **advanced materials**.
-
-PhD students in our group will:
-
-- Have access to modern laboratories with advanced equipment  
-- Gain practical experience with automation systems, large-scale data processing, and AI-driven material design  
-- Collaborate across disciplines, working with academic and industry partners to solve real-world challenges  
-
-We are looking for students with strong **academic performance**, **problem-solving skills**, and **research interests** that align with our work.
-
----
-
-## HOW TO APPLY
-
-If you are interested in any of these positions, please send your **CV** to:
-
-📧 **hai-tao.zhao@polyu.edu.hk**
-
-We encourage all applicants to highlight their **skills**, **research experience**, and **reasons for joining our group** in their applications.
+## Contacts
+CD633, 6/F, 
+Research Centre for Materials Intelligent Manufacturing
+Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong S.A.R.
+Email: hai-tao.zhao AT polyu.edu.hk
 
 ---
