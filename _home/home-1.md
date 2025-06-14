@@ -6,9 +6,10 @@ collection: home
 
 <img src="https://www.polyu.edu.hk/eee/-/media/Department/EEE/People_New/ZHAO-Haitao-(03).jpg?bc=ffffff&h=860&w=560&rev=39bde438a64f4059a10b95c4ad550ce7&hash=B005D3581AEA5914057C5A6AF96C2985" width="330" height="500" alt="Professor Zhao"/>
 
-## ABOUT PROFESSOR ZHAO
+## About Material Intelligence
 
-Welcome to the homepage of Professor Haitao Zhao, a leading figure in Material Intelligence. As a Professor and Director of the Research Centre for Materials Intelligent Manufacturing (RCMIM) at The Hong Kong Polytechnic University.
+**Material Intelligence (MI)** is a type of interdisciplinary technology concerned with making material synthesis work in an intelligent way by artificial intelligence and robotics, similar to the way that the scientists mind and hands works and even beyond.
+**Artificial intelligence (AI)** is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy. -IBM
 
 ---
 
