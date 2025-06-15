@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 ## Professor Haitao ZHAO, BEng, MSc, PhD
+
 Department of Electrical and Electronic Engineering
+
 Director of Research Centre for Materials Intelligent Manufacturing
+
 Academic leader of State Key Laboratory of Ultra-precision Machining Technology (SKL-UPMT) 
 
 ## Biography
