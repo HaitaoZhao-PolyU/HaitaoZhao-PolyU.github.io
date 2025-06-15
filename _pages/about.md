@@ -8,9 +8,7 @@ redirect_from:
 ---
 ## About Material Intelligence
 
-**Material Intelligence (MI)** is a type of interdisciplinary technology concerned with making material synthesis work in an intelligent way by artificial intelligence and robotics, similar to the way that the scientists mind and hands works and even beyond.
-
-**Artificial intelligence (AI)** is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy. -IBM
+**Material Intelligence (MI)** is a type of interdisciplinary technology concerned with making material synthesis work in an intelligent way by artificial intelligence and robotics, similar to the way that the scientists mind and hands works and even beyond. 
 
 ---
 
