@@ -1,20 +1,6 @@
 ---
-title: "Teaching experience 2"
+title: "EIE3124 Fundamentals of Machine Intelligence"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "(2024/2025 Semester 2)"
+
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
