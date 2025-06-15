@@ -46,7 +46,7 @@ The Research Centre for Materials Intelligent Manufacturing (RCMIM) is dedicated
 – Professor Haitao ZHAO
 
 ## Research Interests:
-Embodied Intelligence, Machine Intelligence, and Material Intelligence 
+Material Intelligence，Machine Intelligence, and Embodied Intelligence 
 
 ---
 
