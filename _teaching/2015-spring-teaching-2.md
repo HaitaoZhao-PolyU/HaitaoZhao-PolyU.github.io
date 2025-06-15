@@ -1,6 +1,5 @@
 ---
-title: "EIE3124 Fundamentals of Machine Intelligence"
+title: "ENG2003 Information Technology (2024/2025 Semester 2)"
 collection: teaching
-venue: "(2024/2025 Semester 2)"
 
 ---
