@@ -6,6 +6,7 @@ collection: publication1
 
 ## Representative papers
 
+1. 2023.03.02 **A robotic platform for the synthesis of colloidal nanocrystals**. Haitao Zhao*, Wei Chen, Hao Huang, Zhehao Sun, Zijian Chen, Lingjun Wu, Baicheng Zhang, Fuming Lai, Zhuo Wang, Mukhtar Lawan Adam, Cheng Heng Pang, Paul K Chu, Yang Lu, Tao Wu, Jun Jiang*, Zongyou Yin*, Xue-Feng Yu*. **Nature Synthesis** **DOI:** [10.1002/smll.202100024](https://doi.org/10.1002/smll.202100024)
 
 ---
 ## Publications
@@ -20,7 +21,7 @@ collection: publication1
 **Published in:** *Small*, 2021  
 **Date:** March 1, 2021  
 **Authors:** Lai, F. M., Sun, Z. H., Saji, S. E., He, Y. C., Yu, X. F., Zhao, H. T.*, Guo, H. B.*, & Yin, Z. Y.*  
-**DOI:** [10.1002/smll.202100024](https://doi.org/10.1002/smll.202100024)
+
 
 ---
 
