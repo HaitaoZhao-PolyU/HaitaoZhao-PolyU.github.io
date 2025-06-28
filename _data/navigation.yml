@@ -22,6 +22,12 @@ main:
     
   - title: "Service"
     url: /service1/
+
+  - title: "Center"
+    url: /center1/
+
+  - title: "Join Us"
+    url: /join-us1/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
