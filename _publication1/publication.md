@@ -21,6 +21,6 @@ This work uses machine learning to guide the rational design of crystal facets d
 
 ### Download
 
-[Download](/files/paper1.pdf)
+[Download PDF](/files/paper1.pdf)
 
 ---
