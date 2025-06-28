@@ -3,4 +3,19 @@ title: ""
 excerpt: ""
 collection: join-us1
 ---
-This is an item in your research. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+
+## Open Positions
+
+We are looking for motivated talents to join us. Openings for postdocs, graduate students and undergraduates are available. 
+
+---
+
+## Contacts
+
+CD633, Department of Electrical and Electronic Engineering
+
+Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong S.A.R.
+
+Email: hai-tao.zhao AT polyu.edu.hk
+
+---
