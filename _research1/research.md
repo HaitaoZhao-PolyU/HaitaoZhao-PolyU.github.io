@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 excerpt: ""
 collection: research1
 ---
@@ -7,4 +7,14 @@ collection: research1
 
 **Data-driven Robotic Synthesis**  
 <img src='/images/data-driven robotic synthesis.jpg' alt='Data-driven Robotic Synthesis'>
+---
+# Domain Language Models
+
+**Domain Language Models for Material Intelligence**  
+<img src='/images/Domain Language Models.jpg' alt='Domain Language Models'>
+---
+# Embodied Intelligence
+
+**Embodied Intelligence enabled materials intelligent manufacturing**  
+<img src='/images/Embodied Intelligence.jpg' alt='Embodied Intelligence'>
 ---
