@@ -6,12 +6,23 @@ collection: service1
 ## Editorial Service
 
 •	Editorial Board Members of Artificial Intelligence Chemistry
-•	Young editors of InfoMat (IF 25.405)
+
+•	Editorial Board Member for AI for Materials
+
+•	Young editors of Engineering
+
+•	Young editors of InfoMat
+
 •	Special Issue Editors for CrystEngComm (Data-driven crystalline materials discovery)
+
 •	Young editors of Results in Engineering
+
 •	Young editors of Inorganic Chemicals Industry (In Chinese)
+
 •	Topic Editor of Materials
+
 •	Special Issue Editors for Integrated Technology (In Chinese) (Intelligent Manufacturing)
+
 •	Special Issue Editors for Journal of Visualized Experiments (Functional Materials Automation)
 
 
