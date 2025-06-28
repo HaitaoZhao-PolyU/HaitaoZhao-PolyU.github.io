@@ -3,13 +3,17 @@ title: ""
 excerpt: "Short description of service item number 1<br/><img src='/images/500x300.png'>"
 collection: service1
 ---
-## Professor Haitao ZHAO, BEng, MSc, PhD
+## Editorial Service
 
-Department of Electrical and Electronic Engineering
+•	Editorial Board Members of Artificial Intelligence Chemistry
+•	Young editors of InfoMat (IF 25.405)
+•	Special Issue Editors for CrystEngComm (Data-driven crystalline materials discovery)
+•	Young editors of Results in Engineering
+•	Young editors of Inorganic Chemicals Industry (In Chinese)
+•	Topic Editor of Materials
+•	Special Issue Editors for Integrated Technology (In Chinese) (Intelligent Manufacturing)
+•	Special Issue Editors for Journal of Visualized Experiments (Functional Materials Automation)
 
-Director of Research Centre for Materials Intelligent Manufacturing
-
-Academic leader of State Key Laboratory of Ultra-precision Machining Technology (SKL-UPMT) 
 
 ## Biography
 
