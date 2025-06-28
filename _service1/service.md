@@ -50,5 +50,24 @@ collection: service1
   
 ---
 
-## About Material Intelligence
+## Standardization Service
+
+•	IEEE P3466: Standard for Data-Driven High-throughput Laboratory Intelligence and Automation
+
+•	IEEE P3467: Standard for Digital Manufacturing and Stability Testing of Perovskite Solar Cells and Modules
+
+---
+
+## Conference Services
+
+•	2023: Chair and founder of International Conference on Data Driven Materials Innovation
+
+•	2021: Chair and founder of International Conference on Data Driven Materials Innovation
+
+•	2020: Chairman of the Secretariat for MIT A+B Applied Energy Symposium
+
+•	2018: Section Chair of The 10th International Conference on Applied Energy
+
+•	2016: Section Chair of The 8th International Conference on Applied Energy
+---
 
