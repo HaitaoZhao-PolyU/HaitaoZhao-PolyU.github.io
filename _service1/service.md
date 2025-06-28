@@ -58,7 +58,7 @@ collection: service1
 
 ---
 
-## Conference Services
+## Conference Service
 
 •	2023: Chair and founder of International Conference on Data Driven Materials Innovation
 
