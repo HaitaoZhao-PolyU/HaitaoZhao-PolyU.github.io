@@ -1,6 +1,26 @@
 ---
-title: "Publication item number 1"
-excerpt: "Short description of publication item number 1<br/><img src='/images/500x300.png'>"
+title: ""
+excerpt: ""
 collection: publication1
 ---
-This is an item in your publication. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+
+## Machine learning-aided crystal facet rational design with ionic liquid controllable synthesis
+
+**Published in:** *Small*, 2021  
+**Date:** March 1, 2021  
+**Authors:** Lai, F. M., Sun, Z. H., Saji, S. E., He, Y. C., Yu, X. F., Zhao, H. T.*, Guo, H. B.*, & Yin, Z. Y.*  
+**DOI:** [10.1002/smll.202100024](https://doi.org/10.1002/smll.202100024)
+
+### Summary
+
+This work uses machine learning to guide the rational design of crystal facets during ionic liquid-assisted synthesis.
+
+### Citation
+
+> Lai, F. M., Sun, Z. H., Saji, S. E., He, Y. C., Yu, X. F., Zhao, H. T.\*, Guo, H. B.\*, & Yin, Z. Y.\* (2021). *Machine learning-aided crystal facet rational design with ionic liquid controllable synthesis*. *Small*, 17(12), 2100024.
+
+### Download
+
+[Download](/files/paper1.pdf)
+
+---
