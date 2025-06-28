@@ -1,5 +1,5 @@
 ---
-title: "Professional Service"
+title: ""
 excerpt: "Short description of service item number 1<br/><img src='/images/500x300.png'>"
 collection: service1
 ---
