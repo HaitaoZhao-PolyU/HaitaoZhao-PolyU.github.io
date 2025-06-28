@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publication1/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.publication1 reversed %}
+  <article class="publication1-entry">
+    <h2>{{ post.title }}</h2>
+    {{ post.content }}
+  </article>
+  <hr/>
+{% endfor %}
