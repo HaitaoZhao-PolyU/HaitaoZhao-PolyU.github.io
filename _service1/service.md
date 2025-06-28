@@ -69,5 +69,6 @@ collection: service1
 •	2018: Section Chair of The 10th International Conference on Applied Energy
 
 •	2016: Section Chair of The 8th International Conference on Applied Energy
+
 ---
 
