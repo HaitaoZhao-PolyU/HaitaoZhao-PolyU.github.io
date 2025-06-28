@@ -235,6 +235,18 @@ collections:
   home:
     output: true
     permalink: /:collection/:path/
+  service1:
+    output: true
+    permalink: /:collection/:path/
+  research1:
+    output: true
+    permalink: /:collection/:path/
+  publication1:
+    output: true
+    permalink: /:collection/:path/
+  teaching1:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -314,6 +326,42 @@ defaults:
   - scope:
       path: ""
       type: home
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _service1
+  - scope:
+      path: ""
+      type: service1
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _research1
+  - scope:
+      path: ""
+      type: research1
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _publication1
+  - scope:
+      path: ""
+      type: publication1
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _teaching1
+  - scope:
+      path: ""
+      type: teaching1
     values:
       layout: single
       author_profile: true
