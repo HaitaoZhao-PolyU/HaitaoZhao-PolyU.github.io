@@ -12,16 +12,16 @@ main:
   #   url: /home/
 
   - title: "Research"
-    url: /research/ 
+    url: /research1/ 
 
   - title: "Publication"
-    url: /publications/
+    url: /publication1/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching1/    
     
   - title: "Service"
-    url: /service/
+    url: /service1/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
