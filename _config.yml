@@ -247,6 +247,12 @@ collections:
   teaching1:
     output: true
     permalink: /:collection/:path/
+  center1:
+    output: true
+    permalink: /:collection/:path/
+  join-us1:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -362,6 +368,24 @@ defaults:
   - scope:
       path: ""
       type: teaching1
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _center1
+  - scope:
+      path: ""
+      type: center1
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _join-us1
+  - scope:
+      path: ""
+      type: join-us1
     values:
       layout: single
       author_profile: true
