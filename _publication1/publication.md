@@ -29,20 +29,9 @@ collection: publication1
 11. **Data-Driven structural descriptor for predicting platinum‐based alloys as oxygen reduction electrocatalysts**. Xue Zhang, Zhuo Wang, Adam Mukhtar Lawan, Jiahong Wang, Chang‐Yu Hsieh, Chenru Duan, Cheng Heng Pang, Paul K Chu, Xue‐Feng Yu\*, **Haitao Zhao\***. **InfoMat**. [Download PDF](/files/11.pdf)
 
 
-
-
-    
----
-## Publications
-
-## 2025
-
----
-## 2024
-
 ---
 
-### Citations
+## Citations
 
 Citations: 8302； h-index: 52; i10 Index: 99
 
