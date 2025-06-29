@@ -3,7 +3,7 @@ title: ""
 excerpt: ""
 collection: join-us1
 ---
-We are looking for motivated talents with interdisciplinary background (AI, Robotics, Materials, Chemistry and the Engineering) to join us. Various fellowship and scholarship schemes are available. 
+We are looking for motivated talents with interdisciplinary background (AI, Robotics, Materials, Chemistry or the Engineering) to join us. Various fellowship and scholarship schemes are available. 
 
 ## Prospective PhD Students
 
