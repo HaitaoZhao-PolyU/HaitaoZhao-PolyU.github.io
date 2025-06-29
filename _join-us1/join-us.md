@@ -11,6 +11,9 @@ We are looking for motivated talents to join us. Various fellowship and scholars
 
 
 
+Link: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html). [Download PDF](/files/s44160-023-00250-5 (2).pdf)
+
+
 
 ---
 
