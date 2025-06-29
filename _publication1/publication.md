@@ -10,7 +10,7 @@ collection: publication1
 
 2. **Material intelligence by the convergence of artificial intelligence and robotic platforms**. Xinyu Zhang, Zijian Chen, Feibei Chen, Billy Fanady, Boyuan Wang, Zongming Ni, Shumin Zhou, Junzhi Ye, GuanHua Chen, Jie Liu, Robert L. Z. Hoye, Xiaobo Li, Samantha Y. Chong, Wei Feng, Chi-yung Chung, Ching-chuen Chan, Linjiang Chen\*, Han Hao\*, Alán Aspuru-Guzik, Jun Jiang\*, **Haitao Zhao\***. **Nexus**. DOI: [10.1038/s44160-023-00250-5](https://doi.org/10.1038/s44160-023-00250-5). [Download PDF](/files/s44160-023-00250-5 (2).pdf)
 
-3. **Data-Driven Controlled Synthesis of Oriented Quasi-Spherical CsPbBr3 Perovskite Materials**. Shaohui Liu, Zijian Chen, Yingming Liu, Lingjun Wu, Boyuan Wang, Zixuan Wang, Bobin Wu, Xinyu Zhang, Jie Zhang, Mengyun Chen, Hao Huang\*, Junzhi Ye\*, Paul K Chu, Xue‐Feng Yu, Lakshminarayana Polavarapu, Robert LZ Hoye, Feng Gao, **Haitao Zhao\***. **Angewandte Chemie**. [Download PDF](/files/s44160-023-00250-5 (2).pdf)
+3. **Data-Driven Controlled Synthesis of Oriented Quasi-Spherical CsPbBr3 Perovskite Materials**. Shaohui Liu, Zijian Chen, Yingming Liu, Lingjun Wu, Boyuan Wang, Zixuan Wang, Bobin Wu, Xinyu Zhang, Jie Zhang, Mengyun Chen, Hao Huang\*, Junzhi Ye\*, Paul K Chu, Xue‐Feng Yu, Lakshminarayana Polavarapu, Robert LZ Hoye, Feng Gao, **Haitao Zhao\***. **Angewandte Chemie**. [Download PDF](/files/3.pdf)
 
 4. 2025.06.27 **Data-Driven Fine Element Tuning of Halide Double Perovskite for Enhanced Photoluminescence**. Lingjun Wu, Zijian Chen, Zhongcheng Yuan, Bobin Wu, Shaohui Liu, Zixuan Wang, Jonathan P Mailoa, Chenru Duan, Hao Huang\*, Chang‐Yu Hsieh\*, Xue‐Feng Yu\*, **Haitao Zhao\***. **Advanced Optical Materials**. [Download PDF](/files/s44160-023-00250-5 (2).pdf)
 
