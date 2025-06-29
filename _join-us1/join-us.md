@@ -158,9 +158,11 @@ The scholarship aims to provide partial financial support to Visiting Scholar/Po
 
 CD633, Department of Electrical and Electronic Engineering
 
+Research Centre for Materials Intelligent Manufacturing
+
 Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong S.A.R.
 
 Email: hai-tao.zhao AT polyu.edu.hk
 
 ---
-[Download PDF](/files/s44160-023-00250-5 (2).pdf)
+
