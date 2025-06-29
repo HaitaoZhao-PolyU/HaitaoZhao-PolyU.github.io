@@ -43,7 +43,7 @@ Link: [PolyU Presidential PhD Fellowship Scheme](https://www.polyu.edu.hk/gs/pro
 
 
 
-**Research Centre for Materials Intelligent Manufacturing Postgraduate Scholarship**
+**Material Intelligence Postgraduate Scholarship**
 
 The scholarship aims to provide financial support to PhD and MPhil students at Research Centre for Materials Intelligent Manufacturing, allowing them to fully focus on their studies. Usually, Research Centre for Materials Intelligent Manufacturing takes 1-3 graduate students a year.
 
@@ -118,6 +118,39 @@ HK$40,000 in Year 1; HK$20,000 per year in the remaining normal study period
 University Accommodation: Eligible hall place for 1 year. 
 
 Link: [International PhD Fellowship Scheme](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/ipfs/). 
+
+---
+
+
+## Prospective Postdoctoral, Research Fellow and Visiting Scholar 
+
+There are vacancies for Postdoctoral/Research Assistant/Research Associate/Research Fellow/HK RGC Postdoctoral Fellowship Scheme/Hong Kong Scholars Program.
+
+
+
+**Hong Kong Scholars Program (香江學者計劃)**
+
+The “Hong Kong Scholars Program” is jointly launched by the Society of Hong Kong Scholars and the China National Postdoctoral Council under the Ministry of Human Resources and Social Security. It aims at effectively pooling talent and research resources of Hong Kong and the Mainland to train outstanding postdoctoral fellows. Selected “Hong Kong Scholars” (i.e. the postdoctoral fellows) will come to Hong Kong to commence postdoctoral research work under professors at various universities in Hong Kong. This Program will help professors of Hong Kong solicit high-quality PhD graduates from leading universities on the Mainland, thus promoting academic and scientific exchanges and collaboration between the two places.
+
+Link: [Hong Kong Scholars Program](https://www.hkscholars.org/). 
+
+
+
+**Material Intelligence Scholars**
+
+The scholarship aims to provide financial support to Visiting Scholar/Postdoctoral/Research Assistant/Research Associate/Research Fellow at Research Centre for Materials Intelligent Manufacturing.
+
+
+**PolyU-WIT Research Centre for Energy Materials Intelligent Manufacturing Scholars**
+
+The scholarship aims to provide financial support for Visiting Scholar/Postdoctoral/Research Assistant/Research Associate/Research Fellow to work at Wen Zhou or Hong Kong. 
+
+
+
+**AI & Robotic Scholars**
+
+The scholarship aims to provide partial financial support to Visiting Scholar/Postdoctoral/Research Assistant/Research Associate/Research Fellow who have the passion to solve the problems in the industrial sector with AI or Robotic techniques.
+
 
 ---
 
