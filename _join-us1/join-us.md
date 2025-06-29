@@ -3,10 +3,14 @@ title: ""
 excerpt: ""
 collection: join-us1
 ---
+We are looking for motivated talents to join us. Various fellowship and scholarship schemes are available. 
 
-## Open Positions
+## Prospective PhD Students
 
-We are looking for motivated talents to join us. Openings for postdocs, graduate students and undergraduates are available. 
+**Hong Kong PhD Fellowship Scheme**
+
+
+
 
 ---
 
