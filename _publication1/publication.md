@@ -16,7 +16,7 @@ collection: publication1
 
 5. **Navigating materials chemical space to discover new battery electrodes using machine learning**. Mukhtar Lawan Adam, Oyawale Adetunji Moses, Jonathan Pradana Mailoa, Chang-Yu Hsieh\*, Xue-Feng Yu\*, Hao Li\*, **Haitao Zhao\***. **Energy Storage Materials**. [Download PDF](/files/5.pdf)
 
-6. Machine learning and robot-assisted synthesis of diverse gold nanorods via seedless approach**. Oyawale Adetunji Moses, Mukhtar Lawan Adam, Zijian Chen, Collins Izuchukwu Ezeh, Hao Huang, Zhuo Wang, Zixuan Wang, Boyuan Wang, Wentao Li, Chensu Wang, Zongyou Yin\*, Yang Lu\*, Xue-Feng Yu\*, **Haitao Zhao\***. **Artificial Intelligence Chemistry**. [Download PDF](/files/6.pdf)
+6. **Machine learning and robot-assisted synthesis of diverse gold nanorods via seedless approach**. Oyawale Adetunji Moses, Mukhtar Lawan Adam, Zijian Chen, Collins Izuchukwu Ezeh, Hao Huang, Zhuo Wang, Zixuan Wang, Boyuan Wang, Wentao Li, Chensu Wang, Zongyou Yin\*, Yang Lu\*, Xue-Feng Yu\*, **Haitao Zhao\***. **Artificial Intelligence Chemistry**. [Download PDF](/files/6.pdf)
 
 7. **Data-Driven Materials Innovation and Applications**. Zhuo Wang, Zhehao Sun, Hang Yin, Xinghui Liu, Jinlan Wang, **Haitao Zhao\***, Cheng Heng Pang\*, Tao Wu, Shuzhou Li\*, Zongyou Yin\*, Xue‐Feng Yu. **Advanced Materials**. [Download PDF](/files/7.pdf)
 
